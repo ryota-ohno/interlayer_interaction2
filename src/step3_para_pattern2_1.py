@@ -12,7 +12,7 @@ from scipy import signal
 import scipy.spatial.distance as distance
 import random
 
-INTERACTION_PATH = os.path.join(os.environ['HOME'],'Working/interlayer_interaction/')
+INTERACTION_PATH = os.path.join(os.environ['HOME'],'Working/interlayer_interaction2/')
 sys.path.append(INTERACTION_PATH)
 
 from make_8_para_pattern2 import exec_gjf
